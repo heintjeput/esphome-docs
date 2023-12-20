@@ -53,6 +53,8 @@ Configuration variables:
 
 - **update_interval** (*Optional*, :ref:`config-time`): The interval to check the sensor. Defaults to ``60s``.
 
+- **variant** (*Optional*, string, default: AHT10): use "AHT20" to enable this sensor for AHT20 and AHT21.
+
 
 See Also
 --------
